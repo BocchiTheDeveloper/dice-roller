@@ -1,1 +1,1 @@
-# dice-roller
+boredom at its finest
